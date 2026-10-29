@@ -1,0 +1,8 @@
+torch
+torchvision
+tensorflow
+fastapi
+httpx
+python-multipart
+pillow
+numpy
